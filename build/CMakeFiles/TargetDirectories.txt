@@ -1,3 +1,0 @@
-C:/Users/Lanyi/Desktop/Project/Timelake/build/CMakeFiles/minigit.dir
-C:/Users/Lanyi/Desktop/Project/Timelake/build/CMakeFiles/edit_cache.dir
-C:/Users/Lanyi/Desktop/Project/Timelake/build/CMakeFiles/rebuild_cache.dir
